@@ -1,4 +1,5 @@
 "use client";
+/* eslint-disable no-console */
 import { useState, useEffect } from "react";
 import getUser from "../../../../lib/getUser";
 import getUserPosts from "../../../../lib/getUserPosts";
