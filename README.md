@@ -1,5 +1,7 @@
 # Instructions:
 
+[Live Link](https://next-routing-two.vercel.app/)
+
 1. Create a Navbar that is displayed on all pages. The content of the Navbar can be anything you want.
 
 2. Create a route `users`. In this route, use the `getAllUsers` function from the `lib` directory.
