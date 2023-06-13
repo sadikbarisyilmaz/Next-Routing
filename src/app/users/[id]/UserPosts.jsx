@@ -7,7 +7,7 @@ export default function UserPosts({ userPosts, username, userID }) {
   if (username !== undefined) {
     return (
       <div className="flex min-h-screen flex-col items-center gap-4 pt-6 px-24">
-        <h1 className=" text-2xl">{username}'s Posts</h1>
+        <h1 className=" text-2xl">{username}&apos;s Posts</h1>
         <Link className="hover:text-red-400" href={`/users`}>
           Go To Users List
         </Link>
